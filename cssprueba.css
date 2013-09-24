@@ -1,0 +1,26 @@
+/*Css principal*/
+
+
+body{
+
+	background-color: #7a7a7a;
+}
+
+#boton{
+	border-radius: 5px;
+	background-color:#57b041;
+	margin:auto 10% auto 10%;
+	width: 80%;
+}
+
+#centrado{
+	margin: auto;
+	width:50%;
+}
+
+#titulo{
+	color: #4157b0;
+	margin: auto;
+	text-align: center;
+}
+
